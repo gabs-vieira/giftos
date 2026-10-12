@@ -26,3 +26,7 @@ dist-ssr
 
 # Folders
 private/
+
+
+#local files
+roadmap.md
